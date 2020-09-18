@@ -1,33 +1,28 @@
-
-  {
+ {
     "courses": [
       {
         "id": "01",
         "destination": "Cox’s  Bazar",
         "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
-        "full": './cox-bazar.png',
-        "thumbnail":
+        "full-img": "https://ibb.co/hySvc9"
       },
       {
         "id": "02",
         "destination": "Sreemangal",
         "description": "Sreemangal is also well known as the tea capital of Bangladesh and for miles around if you look then you can find green carpet of tea gardens on the hill slopes. There are total 163 tea gardens are exists in Bangladesh and these are at different places of the country Bangladesh.",
-        "full-img": "",
-        "thumbnail":
+        "full-img": "https://ibb.co/C7HtQy4"
       },
       {
         "id": "03",
         "destination": "Sundarbans",
         "description": "Sundarban is the biggest mangrove forest in the world...the beauty of this Forrest is 10 out of 10...some people call it the asian Amazon..here you can find Royal Bengal Tiger(specially if you were lucky) and common uncommon natural beauties...you can note this forrest name on your top list .",
-        "full-img": "",
-        "thumbnail":
+        "full-img": "https://ibb.co/9nXV548"
       },
       {
         "id": "04",
         "destination": "Sajek",
         "description": "If green, wilderness, serenity and tranquility are your mojo, make a trip to Sajek Valley - one of the most popular holiday destinations of Bangladesh. Recently, Sajek has been getting a lot of attention, and for all the right reasons. It is 80km from Khagrachhari, and the hills lie 2000ft above sea level. From an ever-changing weather that shifts from minutes of blazing sunshine to a spell of the heavy clouds obscuring the fiery sun, the bus-ride from Dighinala to Sajek Valley is simply mesmerising.",
-        "full-img": "",
-        "thumbnail":
+        "full-img": "https://ibb.co/NWfn913"
       }
     ]
   }
